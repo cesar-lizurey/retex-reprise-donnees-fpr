@@ -1,0 +1,6 @@
+# On ignore tous les fichiers sauf ceux qui sont utiles
+*
+!/.gitignore
+!/reprise.tex
+!/README.md
+!/img

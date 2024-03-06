@@ -1,2 +1,3 @@
-# retex-reprise-donnees-fpr
-[LATEX] RETEX de la reprise de données du Fichier des Personnes Recherchées
+# Reprise de données FPR
+
+Source LATEX du document PDF consultable sur [le site de César Lizurey](https://cesar.lizurey.fr/tech/2019/05/12/retex-reprise-donnees-fpr.html).
